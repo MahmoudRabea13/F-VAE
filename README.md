@@ -89,6 +89,10 @@ Facial-Generation/
    - Adjust the parameter slider
    - View the generated variations in real-time
 
+<p align="center">
+   <img src="assets/pipeline.png" alt="pipeline" /> 
+</p>   
+
 </div>
 
 <div id = "-variation-methods">
